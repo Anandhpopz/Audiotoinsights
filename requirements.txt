@@ -1,3 +1,4 @@
+keybert
 google-genai
 pandas
 xlsxwriter
@@ -7,3 +8,4 @@ spacy
 nltk
 
 transformers
+
