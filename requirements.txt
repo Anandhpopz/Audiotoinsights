@@ -1,8 +1,9 @@
-google-generativeai
+google-genai
 pandas
 xlsxwriter
 numpy
 scikit-learn
 spacy
 nltk
+
 transformers
