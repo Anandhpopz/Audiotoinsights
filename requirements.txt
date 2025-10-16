@@ -1,10 +1,10 @@
-streamlit
+spacy==3.7.2
+keybert
 pandas
 numpy
 scikit-learn
-keybert
-spacy==3.7.1
 nltk
 xlsxwriter
-# Download the spaCy English model
+streamlit
+# spaCy English model
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
