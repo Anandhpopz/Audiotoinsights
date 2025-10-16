@@ -1,10 +1,16 @@
+streamlit
 keybert
 google-genai
 pandas
-xlsxwriter
 numpy
 scikit-learn
 spacy
 nltk
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 transformers
+xlsxwriter
+sentence-transformers
+umap-learn
+hdbscan
+bertopic
+# Download and install the English spaCy model
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
