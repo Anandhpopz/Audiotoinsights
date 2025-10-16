@@ -1,16 +1,10 @@
 streamlit
-keybert
-google-genai
 pandas
 numpy
 scikit-learn
-spacy
+keybert
+spacy==3.7.1
 nltk
-transformers
 xlsxwriter
-sentence-transformers
-umap-learn
-hdbscan
-bertopic
-# Download and install the English spaCy model
+# Download the spaCy English model
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
